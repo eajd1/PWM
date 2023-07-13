@@ -1,0 +1,1 @@
+pyinstaller --onefile Main.py --icon C:\Users\Ethan\Documents\Software\PWM\Lock.ico
